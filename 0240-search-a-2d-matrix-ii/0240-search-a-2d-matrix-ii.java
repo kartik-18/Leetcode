@@ -3,7 +3,7 @@ class Solution {
         int i = 0;
         int j = matrix[0].length-1;
       
-        if(matrix == null || matrix.length <1 || matrix[0].length <1){
+        if(matrix == null || matrix.length <1 || matrix[0].length <1 || target > matrix[matrix.length-1][matrix[0].length -1]  ||  target < matrix[0][0]){
             return false;
         }
         
