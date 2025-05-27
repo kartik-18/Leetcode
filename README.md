@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartik-18/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
