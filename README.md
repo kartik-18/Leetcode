@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/kartik-18/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/kartik-18/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kartik-18/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
