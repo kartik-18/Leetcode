@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartik-18/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartik-18/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
