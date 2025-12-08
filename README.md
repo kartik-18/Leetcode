@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartik-18/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/kartik-18/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartik-18/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartik-18/Leetcode/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/kartik-18/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
