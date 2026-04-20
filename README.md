@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartik-18/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartik-18/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kartik-18/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
