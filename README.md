@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/kartik-18/Leetcode/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kartik-18/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
