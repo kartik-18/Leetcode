@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartik-18/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/kartik-18/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartik-18/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartik-18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartik-18/Leetcode/tree/master/0048-rotate-image) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartik-18/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/kartik-18/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartik-18/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kartik-18/Leetcode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kartik-18/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
