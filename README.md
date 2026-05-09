@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartik-18/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartik-18/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -74,4 +75,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kartik-18/Leetcode/tree/master/0048-rotate-image) |
+| [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
