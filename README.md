@@ -15,6 +15,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kartik-18/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3660-jump-game-ix](https://github.com/kartik-18/Leetcode/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
@@ -80,4 +81,5 @@
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kartik-18/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
