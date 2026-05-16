@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/kartik-18/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartik-18/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-18/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartik-18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -88,4 +89,8 @@
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik-18/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-18/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
