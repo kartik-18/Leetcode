@@ -95,4 +95,20 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-18/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kartik-18/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
