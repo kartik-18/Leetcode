@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartik-18/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-18/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kartik-18/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/kartik-18/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartik-18/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kartik-18/Leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/kartik-18/Leetcode/tree/master/0200-number-of-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Simulation
 |  |
@@ -98,14 +100,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kartik-18/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kartik-18/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kartik-18/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
