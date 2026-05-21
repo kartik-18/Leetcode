@@ -20,6 +20,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik-18/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3660-jump-game-ix](https://github.com/kartik-18/Leetcode/tree/master/3660-jump-game-ix) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kartik-18/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kartik-18/Leetcode/tree/master/0547-number-of-provinces) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
