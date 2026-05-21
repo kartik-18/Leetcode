@@ -22,6 +22,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik-18/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik-18/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3660-jump-game-ix](https://github.com/kartik-18/Leetcode/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@
 | ------- |
 | [0796-rotate-string](https://github.com/kartik-18/Leetcode/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik-18/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
@@ -52,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik-18/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik-18/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
