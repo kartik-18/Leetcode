@@ -18,6 +18,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kartik-18/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-18/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kartik-18/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik-18/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/kartik-18/Leetcode/tree/master/0217-contains-duplicate) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-18/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-18/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
 | ------- |
