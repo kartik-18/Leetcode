@@ -35,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik-18/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartik-18/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [3660-jump-game-ix](https://github.com/kartik-18/Leetcode/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik-18/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kartik-18/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/kartik-18/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kartik-18/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik-18/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kartik-18/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik-18/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
