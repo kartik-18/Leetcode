@@ -25,6 +25,7 @@
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik-18/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/kartik-18/Leetcode/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-18/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/kartik-18/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik-18/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-18/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-18/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kartik-18/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,4 +135,8 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kartik-18/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
