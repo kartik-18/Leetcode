@@ -27,6 +27,7 @@
 | [3194-find-words-containing-character](https://github.com/kartik-18/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/kartik-18/Leetcode/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kartik-18/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kartik-18/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik-18/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kartik-18/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kartik-18/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
